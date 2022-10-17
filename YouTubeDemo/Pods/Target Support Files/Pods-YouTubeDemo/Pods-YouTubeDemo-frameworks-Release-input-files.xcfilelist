@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-YouTubeDemo/Pods-YouTubeDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/ProgressHUD/ProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/YouTubePlayer/YouTubePlayer.framework

@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.2.0)
+  - ProgressHUD (13.6)
+  - YouTubePlayer (0.7.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ProgressHUD
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ProgressHUD
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+  YouTubePlayer: 2b5f2830d8f9b2cde942083211291e382c9e6bd5
+
+PODFILE CHECKSUM: 259a42a1240044c3996d838e1953546ff919138d
+
+COCOAPODS: 1.11.2
